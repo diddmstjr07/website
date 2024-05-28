@@ -1,5 +1,5 @@
 ---
-title: TextAlign
+title: hello
 sidebar_label: TextAlign
 ---
 import Tabs from '@theme/Tabs';
